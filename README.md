@@ -6,7 +6,7 @@
 
 本指南整理自教學投影片〈從範本建立自己的 Skill〉，並將內容改寫為適合放在 GitHub 閱讀、維護與分享的版本。
 
-[下載 skill-template.zip](https://github.com/chichingleetw/research-skill-template-guide/raw/main/skill-template.zip)
+[下載 skill-template.zip](https://github.com/educatres/research-skill-template-guide/raw/main/skill-template.zip)
 
 ![從範本建立自己的 Skill](assets/images/slide-01.png)
 
@@ -673,7 +673,7 @@ research-skill-template/
 
 對第一次建立 Skill 的研究人員，可以只記住以下六步：
 
-1. **選範本**：下載並解壓縮 [`skill-template.zip`](https://github.com/chichingleetw/research-skill-template-guide/raw/main/skill-template.zip)。
+1. **選範本**：下載並解壓縮 [`skill-template.zip`](https://github.com/educatres/research-skill-template-guide/raw/main/skill-template.zip)。
 2. **寫需求**：像交代研究助理一樣，描述任務、流程與產出。
 3. **拆分工**：一個 Agent 負責一項主要工作。
 4. **交給 AI 建立**：要求 AI 產生所有必要檔案與 README。
